@@ -1,0 +1,22 @@
+[general]
+import = [
+    "~/.config/alacritty/vague.toml",
+]
+
+[window]
+dimensions = { columns = 130, lines = 30 }
+position = { x = 100, y = 30 }
+opacity = 0.85
+
+[colors]
+cursor = { text = "CellBackground", cursor = "#5dfcdc" }
+
+[cursor]
+style = { shape = "Underline", blinking = "Off" }
+
+[font]
+# normal = { family = "Drafting* Mono", style = "Regular" }
+# normal = { family = "OverpassM Nerd Font Mono" }
+normal = { family = "JetBrains Mono" }
+# normal = { family = "Fira Mono", style = "Regular" }
+size = 18
