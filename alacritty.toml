@@ -1,9 +1,11 @@
 [general]
 import = [
-    "~/.config/alacritty/selenized_light.toml",
+    # "~/.config/alacritty/selenized_light.toml",
+    "C:/Users/NilsCarlson/AppData/Roaming/alacritty/selenized_light.toml"
 ]
 
 [window]
+decorations = "None"
 dimensions = { columns = 130, lines = 30 }
 position = { x = 100, y = 30 }
 opacity = 0.98
