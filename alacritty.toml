@@ -11,11 +11,11 @@ position = { x = 100, y = 30 }
 opacity = 0.98
 
 [colors]
-cursor = { text = "CellBackground", cursor = "#5dfcdc" }
+cursor = { text = "CellBackground", cursor = "#000000" }
 
 [cursor]
 style = { shape = "Underline", blinking = "Off" }
 
 [font]
-normal = { family = "Fira Mono", style = "Regular" }
-size = 18
+normal = { family = "JetBrains Mono", style = "Regular" }
+size = 14
