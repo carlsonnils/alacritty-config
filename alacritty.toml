@@ -1,7 +1,7 @@
 [general]
 import = [
-    # "~/.config/alacritty/selenized_light.toml",
-    "C:/Users/NilsCarlson/AppData/Roaming/alacritty/selenized_light.toml"
+    "~/.config/alacritty/papercolor_light.toml",
+    # "C:/Users/NilsCarlson/AppData/Roaming/alacritty/selenized_light.toml"
 ]
 
 [window]
