@@ -10,7 +10,7 @@ position = { x = 100, y = 30 }
 opacity = 0.98
 
 [colors]
-cursor = { text = "CellBackground", cursor = "#000000" }
+cursor = { text = "CellBackground", cursor = "#F527D6" }
 
 [cursor]
 style = { shape = "Underline", blinking = "Off" }
