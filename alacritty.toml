@@ -1,7 +1,6 @@
 [general]
 import = [
-    "~/.config/alacritty/papercolor_light.toml",
-    # "C:/Users/NilsCarlson/AppData/Roaming/alacritty/selenized_light.toml"
+    "kanagawa_wave.toml",
 ]
 
 [window]
